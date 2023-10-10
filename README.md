@@ -1,5 +1,9 @@
 # film-web
-- Sever cho một web phim
-- sử dụng expressJs của nodeJs
-- có các chức năng: tạo api để truyền dữ liệu các loại phim cho frontend. Có thể xem trailer, tìm kiếm phim theo từ khoá. Lọc phim theo thể loại.
-**Truy cập Dự Án**: film-web-ass2.web.app
+- Server for a movie website
+- uses nodeJs expressJs
+# Main functions:
+- create an API to transmit movie data to the frontend.
+- You can watch trailers and search for movies by keywords.
+- Filter movies by genre.
+# Truy cập Dự Án: 
+film-web-ass2.web.app
